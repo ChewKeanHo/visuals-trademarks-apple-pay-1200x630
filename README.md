@@ -166,7 +166,7 @@ Unless otherwise specified in writing, you **MUST** attribute back to the
 creator(s) as follows:
 
 ```
-Title: Apple Pay's Trademark Logo 1200x630
+Title: Apple Pay's Trademark 1200x630 Logo
 Creators: Apple Inc.
 Packaged-By: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
